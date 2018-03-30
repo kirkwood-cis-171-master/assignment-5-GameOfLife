@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 https://youtu.be/FdMzngWchDk
 
+A working simulation receives 90 points from which I might deduct and add to based on code review.
+
